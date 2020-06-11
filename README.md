@@ -23,4 +23,6 @@ Considerações:
 
 Repositório: "https://www.kaggle.com/uciml/mushroom-classification"
 
-> 
+> Kaggle usado para transformar dados qualitativos em quantitativos (dummies)
+
+Repositório: "https://www.kaggle.com/nirajvermafcb/comparing-various-ml-models-roc-curve-comparison"
